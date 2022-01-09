@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "6c6d733b3092de335bd20f37aa92f41f4e21a475cbf4523fff511f1db9e42e48"
+build_start_time: [1641720944, 373487949]
+build_end_time: [1641720951, 72856903]
+inputs:
+  "/Users/eomiso/Desktop/Swift-Baseground/MisoSwiftTools/Sources/Extensions/NSLayoutConstraints+Activate.swift": !dirty [1641719613, 555801391]
+  "/Users/eomiso/Desktop/Swift-Baseground/MisoSwiftTools/Sources/Extensions/UIVIew+backgroundColor.swift": !dirty [1641719635, 747778892]
